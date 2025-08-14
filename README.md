@@ -1,4 +1,4 @@
-Here’s a complete `README.md` you can use for your GitHub repository covering **MNIST**, **Fashion MNIST (fmnist)**, **Fashion MNIST v2 (fmnist2)**, and the **Streamlit app (appfmnist)** in a clean, structured way.
+
 
 ---
 
