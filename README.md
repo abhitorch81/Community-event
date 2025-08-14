@@ -150,4 +150,4 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want, I can also **add badges**, **screenshots of the Streamlit UI**, and **training results tables** so the README looks even more professional for GitHub. That would make it stand out on the 19th.
+
